@@ -137,8 +137,8 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "hugo-quickstart/about/"
+    url        = "about/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "hugo-quickstart/posts/"
+    url        = "posts/"
