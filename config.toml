@@ -1,4 +1,4 @@
-baseURL = "https://mrprajesh.co.in"
+baseURL = "/"
 title   = "Rajesh Pandian M"
 
 DefaultContentLanguage = "en"
@@ -18,7 +18,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "docs"
 
 buildDrafts  = false
 buildFuture  = false
