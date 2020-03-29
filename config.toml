@@ -18,7 +18,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "docs"
 
 buildDrafts  = false
 buildFuture  = false
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Ph.D. Scholar, IIT Madras"
+  homeSubtitle = "Research Scholar, CSE Department, IIT Madras"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = " ~/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -126,12 +126,12 @@ disableHugoGeneratorInject = false
   [languages.en]
     subtitle  = "Hello Friend NG Theme"
     weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = ''
 
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  #[languages.fr]
+  #  subtitle  = "Hello Friend NG Theme"
+  #  weight    = 2
+  #  copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
