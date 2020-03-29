@@ -11,4 +11,4 @@ This is Rajesh, a research student at IIT Madras. I am trying out hugo.
 - It is a lot different from pelican or jekyll.
 - It works with gh-pages !?
 
-Learn more about me on [GitHub](https://github.com/mrprajesh).
+Fork the site on  [GitHub](https://github.com/mrprajesh/hugo-quickstart).

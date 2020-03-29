@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/hugo-quickstart"
 title   = "Rajesh Pandian M"
 
 DefaultContentLanguage = "en"
@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "01-Mar-2006 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Rajesh's dev site"
   keywords = ""
   images = [""]
 
@@ -100,7 +100,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/mrprajesh"
 
   #[[params.social]]
   #  name = "email"
@@ -108,23 +108,23 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/mrprajesh"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+  #[[params.social]]
+  #  name = "linkedin"
+  #  url  = "https://www.linkedin.com/"
 
   [[params.social]]
     name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://www.stackoverflow.com/mrprajesh"
 
   [[params.social]]
     name = "facebook"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://www.facebook.com/mrprajesh"
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "Rajesh's dev site"
     weight    = 1
     copyright = ''
 
