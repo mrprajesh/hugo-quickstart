@@ -3,127 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2014/09/creating-a-new-theme/</loc>
+    <loc>hugo-quickstart/posts/2014/09/creating-a-new-theme/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>hugo-quickstart/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2020/03/my-first-post/</loc>
+    <loc>hugo-quickstart/posts/2020/03/my-first-post/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/posts/</loc>
+    <loc>hugo-quickstart/posts/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/categories/</loc>
+    <loc>hugo-quickstart/categories/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
+    <loc>hugo-quickstart/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/categories/hugo/</loc>
+    <loc>hugo-quickstart/categories/hugo/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/about/</loc>
+    <loc>hugo-quickstart/about/</loc>
     <lastmod>2020-03-29T22:54:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/</loc>
+    <loc>hugo-quickstart/</loc>
     <lastmod>2020-03-29T22:54:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2014/04/hugo-template-primer/</loc>
+    <loc>hugo-quickstart/posts/2014/04/hugo-template-primer/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/categories/development/</loc>
+    <loc>hugo-quickstart/categories/development/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/tags/development/</loc>
+    <loc>hugo-quickstart/tags/development/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
+    <loc>hugo-quickstart/posts/2014/04/d%C3%A9buter-avec-hugo/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2014/04/getting-started-with-hugo/</loc>
+    <loc>hugo-quickstart/posts/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/categories/go/</loc>
+    <loc>hugo-quickstart/categories/go/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/tags/go/</loc>
+    <loc>hugo-quickstart/tags/go/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/tags/golang/</loc>
+    <loc>hugo-quickstart/tags/golang/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/categories/golang/</loc>
+    <loc>hugo-quickstart/categories/golang/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/tags/hugo/</loc>
+    <loc>hugo-quickstart/tags/hugo/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
+    <loc>hugo-quickstart/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/tags/</loc>
+    <loc>hugo-quickstart/tags/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/tags/templates/</loc>
+    <loc>hugo-quickstart/tags/templates/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/tags/themes/</loc>
+    <loc>hugo-quickstart/tags/themes/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/categories/jekyll/</loc>
+    <loc>hugo-quickstart/categories/jekyll/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-quickstart/hugo-quickstart/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
+    <loc>hugo-quickstart/posts/2014/03/migrer-vers-hugo-depuis-jekyll/</loc>
     <lastmod>2020-03-29T21:26:29+05:30</lastmod>
   </url>
   
