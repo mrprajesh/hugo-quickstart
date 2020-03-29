@@ -35,7 +35,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/hugo-quickstart/posts/:year/:month/:title/"
 
 [author]
   name = "Rajesh Pandian M"
@@ -141,4 +141,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "hugo-quickstart/posts/"
