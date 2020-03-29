@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/hugo-quickstart"
 title   = "Rajesh Pandian M"
 
 DefaultContentLanguage = "en"
@@ -137,8 +137,8 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "hugo-quickstart/about/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "hugo-quickstart/posts/"
