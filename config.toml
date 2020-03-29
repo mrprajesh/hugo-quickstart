@@ -1,4 +1,4 @@
-baseURL = "/hugo-quickstart"
+baseURL = ""
 title   = "Rajesh Pandian M"
 
 DefaultContentLanguage = "en"
@@ -12,7 +12,7 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
-# disqusShortname = ""
+# disqusShortname = "mrprajesh"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -26,7 +26,7 @@ buildExpored = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
@@ -35,7 +35,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "hugo-quickstart/posts/:year/:month/:title/"
 
 [author]
   name = "Rajesh Pandian M"
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "Research Scholar, CSE Department, IIT Madras"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
+  gitUrl = "https://github.com/mrprajesh/hugo-quickstart/commits"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -137,8 +137,8 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "hugo-quickstart/about/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "hugo-quickstart/posts/"

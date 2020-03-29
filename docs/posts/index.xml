@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Rajesh Pandian M</title>
-        <link>/hugo-quickstart/posts/</link>
+        <link>/posts/</link>
         <description>Recent content in Posts on Rajesh Pandian M</description>
         <generator>Hugo -- gohugo.io</generator>
         <lastBuildDate>Sun, 29 Mar 2020 20:57:50 +0530</lastBuildDate>
-        <atom:link href="/hugo-quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Creating a New Theme</title>
@@ -2097,7 +2097,7 @@ appropriée à votre système d&amp;rsquo;exploitation et votre architecture.&lt
 &lt;p&gt;Sauvegardez le fichier téléchargé à un endroit précis, afin de l&amp;rsquo;utiliser dans
 l&#39;étape suivante.&lt;/p&gt;
 &lt;p&gt;Des informations plus complètes sont disponibles sur la page
-&lt;a href=&#34;/hugo-quickstart/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h2 id="étape-1-installer-hugo">Étape 1. Installer Hugo</h2>
 <p>Allez sur la page de téléchargements de
 <a href="https://github.com/spf13/hugo/releases">hugo</a> et téléchargez la version

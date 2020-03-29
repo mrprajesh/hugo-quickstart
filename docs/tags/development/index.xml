@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on Rajesh Pandian M</title>
-    <link>/hugo-quickstart/tags/development/</link>
+    <link>/tags/development/</link>
     <description>Recent content in development on Rajesh Pandian M</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/hugo-quickstart/tags/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

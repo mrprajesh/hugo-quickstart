@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jekyll on Rajesh Pandian M</title>
-    <link>/hugo-quickstart/categories/jekyll/</link>
+    <link>/categories/jekyll/</link>
     <description>Recent content in Jekyll on Rajesh Pandian M</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/hugo-quickstart/categories/jekyll/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/jekyll/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

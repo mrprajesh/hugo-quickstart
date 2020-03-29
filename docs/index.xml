@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rajesh Pandian M</title>
-    <link>/hugo-quickstart/</link>
+    <link>/</link>
     <description>Recent content on Rajesh Pandian M</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/hugo-quickstart/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -52,10 +52,10 @@ Nous allons commencer par créer un nouveau site avec un modèle très basique.<
     
     <item>
       <title>About</title>
-      <link>/hugo-quickstart/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/hugo-quickstart/about/</guid>
+      <guid>/about/</guid>
       <description>This is Rajesh, a research student at IIT Madras. I am trying out hugo.
  It is a lot different from pelican or jekyll. It works with gh-pages !?  Fork the site on GitHub.</description>
     </item>
@@ -83,7 +83,7 @@ appropriée à votre système d&amp;rsquo;exploitation et votre architecture.&lt
 &lt;p&gt;Sauvegardez le fichier téléchargé à un endroit précis, afin de l&amp;rsquo;utiliser dans
 l&#39;étape suivante.&lt;/p&gt;
 &lt;p&gt;Des informations plus complètes sont disponibles sur la page
-&lt;a href=&#34;/hugo-quickstart/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

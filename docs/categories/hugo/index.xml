@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Rajesh Pandian M</title>
-    <link>/hugo-quickstart/categories/hugo/</link>
+    <link>/categories/hugo/</link>
     <description>Recent content in Hugo on Rajesh Pandian M</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/hugo-quickstart/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -33,7 +33,7 @@ appropriée à votre système d&amp;rsquo;exploitation et votre architecture.&lt
 &lt;p&gt;Sauvegardez le fichier téléchargé à un endroit précis, afin de l&amp;rsquo;utiliser dans
 l&#39;étape suivante.&lt;/p&gt;
 &lt;p&gt;Des informations plus complètes sont disponibles sur la page
-&lt;a href=&#34;/hugo-quickstart/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
+&lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
