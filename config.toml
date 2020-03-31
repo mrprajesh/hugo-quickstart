@@ -1,4 +1,4 @@
-baseURL = "hugo-quickstart"
+baseURL = ""
 title   = "Rajesh Pandian M"
 
 DefaultContentLanguage = "en"
