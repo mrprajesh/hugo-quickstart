@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rajesh Pandian M</title>
-    <link>hugo-quickstart/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Rajesh Pandian M</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="hugo-quickstart/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>hugo-quickstart/categories/hugo/</link>
+      <link>/categories/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>hugo-quickstart/categories/hugo/</guid>
+      <guid>/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>hugo-quickstart/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>hugo-quickstart/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>hugo-quickstart/categories/go/</link>
+      <link>/categories/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>hugo-quickstart/categories/go/</guid>
+      <guid>/categories/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>hugo-quickstart/categories/golang/</link>
+      <link>/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>hugo-quickstart/categories/golang/</guid>
+      <guid>/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>hugo-quickstart/categories/jekyll/</link>
+      <link>/categories/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>hugo-quickstart/categories/jekyll/</guid>
+      <guid>/categories/jekyll/</guid>
       <description></description>
     </item>
     
